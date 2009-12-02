@@ -1,0 +1,39 @@
+/*
+ * Default stylesheet for my personal page
+ *
+ * Version 0.1
+ */
+ 
+body
+{
+  font-family      : sans-serif;
+  color            : black;
+  background-color : white;
+}
+hr {  }
+
+/* header style */
+h1 { font : 120% sans-serif; }
+h2 
+{ 
+  font             : 170% sans-serif; 
+  color            : #006699;
+  background-color : white;
+}
+h3 { font : 110% sans-serif; }
+
+/* projects (title | desc) */
+.project-title
+{
+  border           : 1px solid;
+  border-color     : #006699;
+  width            : 60%;
+  padding          : 5px;
+  color            : black;
+  background-color : #EEEEEE;
+}
+.project-desc
+{
+  margin-left : 5%;
+}
+

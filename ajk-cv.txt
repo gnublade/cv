@@ -1,0 +1,154 @@
+.. raw:: latex
+
+    \thispagestyle{empty}
+
+=============
+ Andy Kilner
+=============
+
+.. raw:: latex
+
+    \pagestyle{empty}
+    \begin{center}
+    \vspace{-0.5in}
+
+22 Tyssen Road, Stoke Newington, London, N16 7LX
+
+07803 902559
+
+www.andykilner.co.uk
+
+andy@andykilner.co.uk
+
+.. raw:: latex
+
+    \end{center}
+
+---------------------------------------------------------------------
+
+Skills
+======
+
+Operating Systems
+-----------------
+Expert in GNU/Linux with experience with most major server and desktop
+distrubutions.
+
+Programming Languages
+---------------------
+Python, PHP, Perl, JavaScript, C, C++, Java, scripting (bash, awk, sed)
+
+Network Admin
+-------------
+Apache, SNMP, Samba, NFS, iptables, dhcp, DNS, NTP.
+
+Web Technologies
+----------------
+WSGI, FastCGI, XML (expat \& DOM), HTML (XHTML), CSS, AJAX (JSON), XML-RPC, SQL
+(PostgreSQL, MySQL, SQLite, Oracle), SSL (wildcard certificates)
+
+Other
+-----
+\LaTeX, PGP (GPG), OpenSSH, Twisted Python
+
+---------------------------------------------------------------------
+
+Employment
+==========
+
+:Jul 2008—Nov 2009: Systems Developer, NTT Europe Online
+
+    Developing and maintaining a web based system to manage business processes
+    for sales, order delivery, procurement and management of hosted systems.
+    Designing, implementing and deploying enhancements to meet user
+    requirements and acceptance. Developing and maintaining SNMP and other
+    polling monitors for the monitoring of status and availability of servers.
+    Maintaining, installing and configuring distributed systems across multiple
+    data centres.  Working with VMWare Infrastructure, virtual machines on ESX
+    hosts using the VMWare Virtual Center.
+   
+    Projects have included developing a remote asynchronous command execution
+    utility using Twisted Python, able to simultaneously run commands on
+    multiple hosts over SSH, used for a number of tasks including decentralised
+    user management.
+    
+:Jan 2008—Jul 2008: Web developer, pH Group Ltd
+
+    Maintaining existing front-end and back-end systems, developing new
+    features according to specifications.  Optimising existing code by
+    identifying bottlenecks in the Python code, in the various JavaScript
+    implementations of different browsers and in the Oracle database.
+    Deployment of developed systems on production servers.  Supporting clients
+    and users during testing and deployment.
+
+:Apr 2005—Jan 2008: Partner, Qustom
+
+    Led the development of a membership database for a student union serving
+    over 30,000 members. The project mixed Python and PHP, based on the
+    TurboGears web framework and integrated with the existing PHP website and
+    with a multi-site Drupal CMS installation running via FastCGI behind
+    Apache. The developed system was designed with direct contact and
+    contribution from the client and their existing website developers.
+    Architected and maintained the server on which the system is hosted using
+    Xen virtualisation to run multiple domains on a single dedicated host.
+
+    Used and deployed the Drupal CMS for other single site websites on various
+    platforms with custom modules and enterprising use of Google’s open APIs.
+ 
+:May 2002—Apr 2005: Freelance software engineer
+
+    Designed and implemented a web-based business risk monitoring system and a
+    recommendation tracking system using a custom MVC based framework written
+    using PHP, JavaScript, and MySQL.
+
+    Subcontracted for companies specialising in seismic survey. Aided in the
+    development of Java applications for the display and configuration of a
+    seismic gun control system. Developed user-friendly Python based network
+    configuration and system setup utilities. Installed software and hardware
+    out in the field on seismic survey vessels.
+
+---------------------------------------------------------------------
+
+Education
+=========
+
+:1999—2002: BSc (Hons) Computer Science, University of Leeds
+
+    Graduated with 2.1. Final year project was entitled "Tracking Faces in Real
+    Time with Automatic Initialisation". The produced face tracking system was
+    programmed in C++ using various computer vision techniques.
+
+:1997—1999: A Level, Wolfreton Sixth Form College, Hull
+
+    Mathematics A; Further Mathematics B; Physics B; Computing C
+
+:1995—1997: GCSE, Wolfreton Upper School, Hull
+
+    Mathematics A; Science (Double Award) A, A; Technology B; French B; History
+    B; English C; German C
+
+---------------------------------------------------------------------
+
+Personal
+========
+
+:Date of Birth: 22 October 1980
+:Driving: Full, clean UK driving licence
+
+---------------------------------------------------------------------
+
+Interests
+=========
+
+Enjoys travelling, most recently around India, previously around
+northern-central Europe and around Scotland.  Helped to establish a Python user
+group in Yorkshire and is now active in the London Python user group.  Attends
+programming and Open Source/Technology conferences (EuroPython, PyCon UK,
+Google OS Jam, Open Tech).  Other interests include music, sports, biking,
+reading, hiking and being generally active.
+
+References
+==========
+
+Available on request.
+
