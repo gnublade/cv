@@ -32,54 +32,61 @@ Skills
 Operating Systems
 -----------------
 Expert in GNU/Linux with experience with most major server and desktop
-distrubutions.
+distributions.
 
 Programming Languages
 ---------------------
-Python, PHP, Perl, JavaScript, C, C++, Java, scripting (bash, awk, sed)
+Python, PHP, JavaScript, Perl, C, C++, scripting (bash, awk, sed)
 
 Network Admin
 -------------
-Apache, SNMP, Samba, NFS, iptables, dhcp, DNS, NTP.
+Apache, SNMP, iptables, DHCP, DNS, Samba, NFS, NTP.
 
 Web Technologies
 ----------------
-WSGI, FastCGI, XML (expat \& DOM), HTML (XHTML), CSS, AJAX (JSON), XML-RPC, SQL
-(PostgreSQL, MySQL, SQLite, Oracle), SSL (wildcard certificates)
+WSGI, FastCGI, XML (expat \& DOM), HTML (XHTML), CSS, AJAX (JSON), XML-RPC,
+REST, SQL (PostgreSQL, MySQL, SQLite, Oracle), SSL
 
 Other
 -----
-\LaTeX, PGP (GPG), OpenSSH, Twisted Python
+\LaTeX, PGP (GPG), OpenSSH, Twisted Python, ReStructuredText
 
 ---------------------------------------------------------------------
 
 Employment
 ==========
 
+:Nov 2009—Present: Freelance software engineer
+
+    Currently working on a number of small projects; a suite of Django web
+    applications, a Google App Engine project using the last.fm API, addons to
+    Pixelpost and a couple of WordPress websites.
+
 :Jul 2008—Nov 2009: Systems Developer, NTT Europe Online
 
-    Developing and maintaining a web based system to manage business processes
-    for sales, order delivery, procurement and management of hosted systems.
-    Designing, implementing and deploying enhancements to meet user
-    requirements and acceptance. Developing and maintaining SNMP and other
-    polling monitors for the monitoring of status and availability of servers.
-    Maintaining, installing and configuring distributed systems across multiple
-    data centres.  Working with VMWare Infrastructure, virtual machines on ESX
-    hosts using the VMWare Virtual Center.
+    Developed and maintained Nexus, a web based system to manage business
+    processes for sales, order delivery, procurement and management of over
+    8,000 hosted systems.  Designed, implemented and deployed enhancements to
+    meet user requirements and acceptance according to strict procedures.
+    Developed and maintained SNMP and other polling monitors for the monitoring
+    of status and availability of servers.  Maintained, installed and
+    configured distributed systems across multiple data centres.  Worked with
+    VMWare Infrastructure, virtual machines on ESX hosts using the VMWare
+    Virtual Center.
    
-    Projects have included developing a remote asynchronous command execution
+    Projects included developing a remote asynchronous command execution
     utility using Twisted Python, able to simultaneously run commands on
     multiple hosts over SSH, used for a number of tasks including decentralised
     user management.
     
 :Jan 2008—Jul 2008: Web developer, pH Group Ltd
 
-    Maintaining existing front-end and back-end systems, developing new
-    features according to specifications.  Optimising existing code by
-    identifying bottlenecks in the Python code, in the various JavaScript
-    implementations of different browsers and in the Oracle database.
-    Deployment of developed systems on production servers.  Supporting clients
-    and users during testing and deployment.
+    Maintained front-end and back-end systems used by large multinational banks
+    (RBS, HSBC), developing new features according to specifications.
+    Optimised the existing codebase identifying bottlenecks in the Python code,
+    in the various JavaScript implementations of different browsers and in the
+    Oracle database.  Deployment of developed systems on production servers.
+    Supporting clients and users during testing and deployment.
 
 :Apr 2005—Jan 2008: Partner, Qustom
 
@@ -89,7 +96,7 @@ Employment
     with a multi-site Drupal CMS installation running via FastCGI behind
     Apache. The developed system was designed with direct contact and
     contribution from the client and their existing website developers.
-    Architected and maintained the server on which the system is hosted using
+    Architected and maintained the server on which the system was hosted using
     Xen virtualisation to run multiple domains on a single dedicated host.
 
     Used and deployed the Drupal CMS for other single site websites on various
@@ -140,15 +147,11 @@ Personal
 Interests
 =========
 
-Enjoys travelling, most recently around India, previously around
-northern-central Europe and around Scotland.  Helped to establish a Python user
-group in Yorkshire and is now active in the London Python user group.  Attends
-programming and Open Source/Technology conferences (EuroPython, PyCon UK,
-Google OS Jam, Open Tech).  Other interests include music, sports, biking,
-reading, hiking and being generally active.
-
-References
-==========
-
-Available on request.
+Enjoys travelling, most recently through France, New York and New York state,
+previously around India, northern-central Europe and around Scotland.  Helped
+to establish a Python user group in Yorkshire and is now active in the London
+Python user group arranging monthly social meetings.  Attends programming and
+Open Source/Technology conferences (EuroPython, PyCon UK, Google OS Jam, Open
+Tech).  Other interests include music, sports, biking, reading, hiking and
+being generally active.
 
