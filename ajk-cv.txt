@@ -36,7 +36,7 @@ distributions.
 
 Programming Languages
 ---------------------
-Python, PHP, JavaScript, Perl, C, C++, scripting (bash, awk, sed)
+Python (Django), PHP, JavaScript, Perl, C, C++, scripting (bash, awk, sed)
 
 Network Admin
 -------------
@@ -58,9 +58,12 @@ Employment
 
 :Nov 2009—Present: Freelance software engineer
 
-    Currently working on a number of small projects; a suite of Django web
-    applications, a Google App Engine project using the last.fm API, addons to
-    Pixelpost and a couple of WordPress websites.
+    Currently working on a short term contract taking over an existing Django
+    codebase and preparing it for production use under a tight deadline.
+
+    Also working on a suite of Django web applications, a Google App Engine
+    project using the last.fm API, addons to Pixelpost and a couple of
+    WordPress websites.
 
 :Jul 2008—Nov 2009: Systems Developer, NTT Europe Online
 
