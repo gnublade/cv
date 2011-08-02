@@ -12,58 +12,45 @@
     \begin{center}
     \vspace{-0.5in}
 
-22 Tyssen Road, Stoke Newington, London, N16 7LX
-
-07803 902559
-
-www.andykilner.co.uk
-
-andy@andykilner.co.uk
+0780 390 2559 | andy@andykilner.co.uk | @gnublade
 
 .. raw:: latex
 
     \end{center}
+    \noindent
 
----------------------------------------------------------------------
-
-Skills
-======
-
-Operating Systems
------------------
-Expert in GNU/Linux with experience with most major server and desktop
-distributions.
-
-Programming Languages
----------------------
-Python (Django), PHP, JavaScript, Perl, C, C++, scripting (bash, awk, sed)
-
-Network Admin
--------------
-Apache, SNMP, iptables, DHCP, DNS, Samba, NFS, NTP.
-
-Web Technologies
-----------------
-WSGI, FastCGI, XML (expat \& DOM), HTML (XHTML), CSS, AJAX (JSON), XML-RPC,
-REST, SQL (PostgreSQL, MySQL, SQLite, Oracle), SSL
-
-Other
------
-\LaTeX, PGP (GPG), OpenSSH, Twisted Python, ReStructuredText
+An enthusiastic and experienced systems developer looking to continue his work
+in sustainability or other good causes using open source tools and agile
+methodologies with newfangled tech in a kickass team.
 
 ---------------------------------------------------------------------
 
 Employment
 ==========
 
-:Nov 2009—Present: Freelance software engineer
+:Feb 2010—Aug 2011: Head Geek, More Associates Ltd
 
-    Currently working on a short term contract taking over an existing Django
-    codebase and preparing it for production use under a tight deadline.
+    Lead developer and architect of the CarbonCulture sustainability platform.
+    Working closely with a great team of developers and designers to produce a
+    number of behaviour change apps and displays to reduce energy usage in the
+    workplace.  The CarbonCulture website and core platform is a Django
+    project exposing an API to the CarbonCulture apps using MongoDB as a
+    central store.  Energy use data is read by low power PC's on-site,
+    spooling and transmitting to the data server's RESTful API for
+    processing via RabbitMQ in worker pools.  Real-time energy widgets using
+    elements of HTML5 Canvas, Raphael and JQuery are embedded on client
+    homepages and websites retrieving data via JSON-P from the data server
+    with heavy use of caching.  Touchpoints showing real-time updates and
+    social proof on-site in client buildings, able to recover from errors and
+    continue operating despite network outages.  Clients include DECC, Defra,
+    PMO (Number 10), TFL, plus several other government departments,
+    universities and private sector companies.
 
-    Also working on a suite of Django web applications, a Google App Engine
-    project using the last.fm API, addons to Pixelpost and a couple of
-    WordPress websites.
+:Nov 2009—Feb 2010: Freelance software engineer
+
+    Worked on a short term contract in France and New Jersey taking over an
+    existing Django codebase to prepare it for production use under a tight
+    deadline.
 
 :Jul 2008—Nov 2009: Systems Developer, NTT Europe Online
 
@@ -119,6 +106,32 @@ Employment
 
 ---------------------------------------------------------------------
 
+Skills
+======
+
+Operating Systems
+-----------------
+Expert in GNU/Linux with experience with most major server and desktop
+distributions.
+
+Databases
+---------
+PostgreSQL, MySQL, SQLite, MongoDB, Memcache
+
+Programming Languages
+---------------------
+Python (Django), PHP, JavaScript, Perl, C, C++, scripting (bash, awk, sed)
+
+Server Admin
+-------------
+Nginx, Apache, WSGI, Nagios, OpenSSH, SNMP, DHCP, DNS, NFS, NTP.
+
+Web Technologies
+----------------
+HTML5, CSS3, JQuery, AJAX (JSON), XML-RPC, REST, SSL
+
+---------------------------------------------------------------------
+
 Education
 =========
 
@@ -150,11 +163,7 @@ Personal
 Interests
 =========
 
-Enjoys travelling, most recently through France, New York and New York state,
-previously around India, northern-central Europe and around Scotland.  Helped
-to establish a Python user group in Yorkshire and is now active in the London
-Python user group arranging monthly social meetings.  Attends programming and
-Open Source/Technology conferences (EuroPython, PyCon UK, Google OS Jam, Open
-Tech).  Other interests include music, sports, biking, reading, hiking and
-being generally active.
-
+Enjoys travelling, music, sports and being involved in the Free/Open Source
+Software. Helped to establish a Python user group in Yorkshire and is
+active in the London Python community (although less so of late) and organises
+occasional Python pub meets (#pyssup).
