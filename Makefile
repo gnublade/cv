@@ -1,19 +1,10 @@
 all: ajk-cv.pdf
 
-%.tex: %.txt
-	rst2latex --stylesheet=ajk-cv.sty $< $@
-
-%.dvi: %.tex %.sty
-	latex $<
-
-%.ps: %.dvi %.sty
-	dvips $< -o $@
-
-%.pdf: %.tex %.sty
-	pdflatex $<
+%.pdf %.tex: %.txt head.sty body.sty default.latex
+	pandoc -f rst $< -o $@ --latex-engine=xelatex -H head.sty -B body.sty --template default.latex
 
 clean:
-	rm -f *.dvi *.ps *.pdf
+	rm -f *.pdf
 
 fullclean: clean
 	rm -f *.log *.aux 
