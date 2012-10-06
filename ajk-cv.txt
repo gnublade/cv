@@ -12,7 +12,7 @@
     \begin{center}
     \vspace{-0.5in}
 
-0780 390 2559 | andy@andykilner.co.uk | @gnublade
+0780 390 2559 | andy@andykilner.co.uk | @gnublade | http://github.com/gnublade
 
 .. raw:: latex
 
