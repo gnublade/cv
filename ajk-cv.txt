@@ -37,7 +37,7 @@ Employment
     produce a number of behaviour change apps and displays to reduce energy
     usage in the workplace.  The CarbonCulture website and core platform is a
     Django project exposing APIs to the CarbonCulture apps using MongoDB as a
-    central store.  Energy use data is read by low power PC's on-site, spooling
+    central store.  Energy use data is read by low power PCs on-site, spooling
     and transmitting to the data server's RESTful API for processing via
     RabbitMQ in worker pools.  Real-time energy widgets using elements of HTML5
     Canvas, Raphaël and jQuery are embedded on client homepages and websites
@@ -124,7 +124,8 @@ Skills
 
 **Operating Systems**
 
-    Runs Ubuntu on a MacBook Pro, and Ubuntu Server in the cloud.
+    Runs Ubuntu on a MacBook Pro, and Ubuntu Server in the cloud. Previous
+    experience of Debian, Fedora, RedHat, Gentoo and Windows (IE testing).
 
 ---------------------------------------------------------------------
 
@@ -133,13 +134,13 @@ Education
 
 *1999–2002*: **BSc (Hons) Computer Science, University of Leeds**
 
-    Graduated with 2.1. Final year project was entitled "Tracking Faces in Real
-    Time with Automatic Initialisation". The produced face tracking system was
-    programmed in C++ using various computer vision techniques.
+    Graduated with 2.1. The final year project "Tracking Faces in Real Time with
+    Automatic Initialisation" was programmed in C++ using various computer
+    vision techniques.
 
 *1997–1999*: **A Level, Wolfreton Sixth Form College, Hull**
 
-    Mathematics A; Further Mathematics B; Physics B; Computing C
+    Mathematics A, Further Mathematics B, Physics B, Computing C
 
 ---------------------------------------------------------------------
 
