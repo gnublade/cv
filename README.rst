@@ -6,6 +6,10 @@ This Repository contains my personal CV. It's written in `reStructuredText
 <docutils.sourceforge.net/rst.html>`_ and uses Pandoc_ to convert via xetex
 into PDF.
 
+The actual CV can be found at
+http://github.com/gnublade/cv/blob/master/ajk-cv.rst and should be
+automatically rendered beautifully by Github.
+
 Requirements
 ============
 
