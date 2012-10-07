@@ -1,6 +1,6 @@
 all: ajk-cv.pdf
 
-%.pdf %.tex: %.txt head.sty body.sty default.latex
+%.pdf %.tex: %.rst head.sty body.sty default.latex
 	pandoc -f rst $< -o $@ --latex-engine=xelatex -H head.sty -B body.sty --template default.latex
 
 clean:
