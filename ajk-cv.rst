@@ -30,20 +30,14 @@ Employment
     Pulse. More recently providing twitter data to Zeebox UK and their just
     launched US service for an expected one million users.
 
-*Feb 2010–Present*: **Head Geek, More Associates Ltd**
+*Feb 2010–Nov 2012*: **Technical Lead, More Associates Ltd**
 
-    Lead developer and architect of the CarbonCulture sustainability platform.
-    Working closely with a tight-knit team of developers and designers to
-    produce a number of behaviour change apps and displays to reduce energy
-    usage in the workplace.  The CarbonCulture website and core platform is a
-    Django project exposing APIs to the CarbonCulture apps using MongoDB as a
-    central store.  Energy use data is read by low power PCs on-site, spooling
-    and transmitting to the data server's RESTful API for processing via
-    RabbitMQ in worker pools.  Real-time energy widgets using elements of HTML5
-    Canvas, Raphaël and jQuery are embedded on client homepages and websites
-    retrieving data via CORS/JSON-P from the data server with heavy use of
-    caching.  Clients include DECC, Defra, PMO (Number 10), TfL, plus several
-    other government departments, universities and private sector companies.
+    Lead developer and architect of the `CarbonCulture
+    <http://www.carbonculture.net>`_ sustainability platform.  Worked closely
+    with a tight-knit team of developers and designers to produce a number of
+    behaviour change apps and displays to reduce energy usage in the workplace.
+    Clients included DECC, Defra, PMO (Number 10), TfL, plus several other
+    government departments, universities and private sector companies.
 
 *Nov 2009–Feb 2010*: **Freelance Web Developer**
 
